@@ -1,6 +1,6 @@
 # Node public repo Hello World subscribe to my channel , thanks you
 
-Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
+Simple node.js app that servers  "Welcome to cloud rabbit  & a place to learn cloud and devops"
 
 Great for testing simple deployments on Cloud
 
@@ -40,7 +40,7 @@ sudo apt-get install git -y
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git --version
 ```
 
 This command will print the git version in the terminal.
@@ -48,7 +48,7 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-Git Clone : https://github.com/Aseemakram19/nodejs-on-ec2-youtube.git
+git clone https://github.com/teluguhackerforfree/node-js--app.git
 Branch Master.
 ```
 
